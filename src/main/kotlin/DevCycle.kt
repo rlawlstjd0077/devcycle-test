@@ -9,7 +9,7 @@ import java.util.UUID
  * @author Jay
  */
 class DevCycle {
-    private val dvcClient = DVCClient("server-0b7966cc-a95a-4415-8b6a-a341797e5413");
+    private val dvcClient = DVCClient("server-af93dfe9-955e-44a0-ae23-7e722d698315");
 
     fun useFeature() {
 
