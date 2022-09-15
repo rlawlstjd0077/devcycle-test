@@ -37,6 +37,6 @@ class DevCycle {
 fun main() {
     while (true) {
         DevCycle().useFeature()
-        Thread.sleep(2000)
+        Thread.sleep(3000)
     }
 }
