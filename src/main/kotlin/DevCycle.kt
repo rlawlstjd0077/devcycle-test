@@ -19,7 +19,7 @@ class DevCycle {
             .build()
 
         // The default value can be of type string, boolean, number, or JSON
-        val key = "experiment"
+        val key = "release-flag"
         val defaultValue = false
 
         // Fetch variable values using the identifier key, with a default value and user object
