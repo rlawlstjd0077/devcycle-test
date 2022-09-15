@@ -12,7 +12,7 @@ jobs:
       with:
         api-user: ${{ secrets.CONFIGCAT_API_USER }}
         api-pass: ${{ secrets.CONFIGCAT_API_PASS }}
-        config-id: Main Config
+        config-id: 08da96c8-e698-43a9-8f78-bb7217639d43
         # line-count: 5             # optional
         # sub-folder: src           # optional
         # exclude-keys: >           # optional

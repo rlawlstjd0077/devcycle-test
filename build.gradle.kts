@@ -15,6 +15,9 @@ repositories {
 dependencies {
     testImplementation(kotlin("test"))
     implementation("com.devcycle:java-server-sdk:1.0.6")
+    implementation("com.configcat:configcat-kotlin-client:0.1.2")
+    implementation("org.jetbrains.kotlinx:kotlinx-coroutines-core:1.6.4")
+
 }
 
 tasks.test {
